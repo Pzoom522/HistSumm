@@ -14,7 +14,7 @@ For more info, please read our paper or create an issue!
 Some of the entries may be puzzling. We therefore explain them here
 | entry             	| description                                                                    	|
 |-------------------	|--------------------------------------------------------------------------------	|
-| (de) germanc_file 	| the index of the story in the [GermanC dataset]                                	|
+| (de) germanc_file 	| the index of the story in the [GermanC dataset](http://hdl.handle.net/20.500.12024/2544)                               	|
 | (de) region       	| historical German has dialects, so it's important to log the geometric sources 	|
 | (zh) source       	| via which academic paper did we obtain the piece of Wanli Gazette news         	|
 | human_eval_scores 	| annotation scores given by expert validator                                    	|
