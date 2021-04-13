@@ -31,9 +31,9 @@ To be released near the conference (late April) :eyes:
 If you like our project or find it useful, please give us a :star: and cite us
 ```
 @inproceedings{HistSumm-2021,
-    title={Summarising Historical Text in Modern Languages}, 
-    author={Xutan Peng and Yi Zheng and Chenghua Lin and Advaith Siddharthan},
-    year={2021},
+    title = {Summarising Historical Text in Modern Languages}, 
+    author = {Xutan Peng and Yi Zheng and Chenghua Lin and Advaith Siddharthan},
+    year = {2021},
     booktitle = "Proceedings of the 16th Conference of the {E}uropean Chapter of the Association for Computational Linguistics: Volume 1, Long Papers",
     address = "Online",
     publisher = "Association for Computational Linguistics"
